@@ -33,8 +33,12 @@ h1 {
   font-size: 30px;
   margin: 0;
   text-align: center;
+ 
 }
+h1:hover {color: rgb(0, 47, 255);
+  
 
+}
 
 #cesta-carrito {
   border: none;

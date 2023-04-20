@@ -42,7 +42,7 @@ const carddon = (data) => {
 };
 
 
-// en ese codigo que esa comenado queria hacer un cambio de juegos me funcinaba pero no enia idea como implementarlo
+// en ese codigo que esta comentado queria hacer un cambio de juegos me funcinaba pero no tenia idea como implementarlo
 
 
 // alert('bienvenidos a game store');
